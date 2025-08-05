@@ -1,6 +1,6 @@
 # NHS
 In this project, I supported the NHS in identifying patterns in appointment utilisation, staffing needs, and missed appointments using data analytics. By exploring large-scale healthcare data, I translated raw trends into actionable recommendations—helping inform smarter scheduling, reduce no-shows, and improve resource efficiency across the system
-NHS Appointment Trends & Missed Appointments Analysis - 70% Final Grade
+NHS Appointment Trends & Missed Appointments Analysis - 81& Final Grade
 This project was completed as part of the LSE Data Analytics Postgraduate Diploma. I explored appointment data across England’s NHS system to understand utilisation trends, staffing needs, and missed appointments. The focus was on providing strategic recommendations that improve service efficiency without increasing capacity.
 
 🔧 Tools Used
